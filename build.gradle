@@ -2,6 +2,9 @@
 
 buildscript {
     repositories {
+        maven{
+            url 'file:///E/BaiduYunDownload/maven/repository/'}
+
         jcenter()
     }
     dependencies {
@@ -14,6 +17,8 @@ buildscript {
 
 allprojects {
     repositories {
+
+
         jcenter()
     }
 }
