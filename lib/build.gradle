@@ -71,9 +71,9 @@ install {
                 }
                 developers {
                     developer {
-                        id 'niangegelaile'    //填写的一些基本信息
-                        name 'quanan li'    //你的名字
-                        email '13750523051@139.com'//你的邮箱
+                        id 'cetian'    //填写的一些基本信息
+                        name 'ce tian'    //你的名字
+                        email '13750523051@sina.cn'//你的邮箱
                     }
                 }
                 scm {
